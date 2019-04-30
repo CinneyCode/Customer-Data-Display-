@@ -1,0 +1,13 @@
+C:\Users\BN105-30.UCO.002\Documents\Visual Studio 2017\CustomerConsoleapp\CustomerConsoleapp\bin\Debug\CustomerConsoleapp.exe.config
+C:\Users\BN105-30.UCO.002\Documents\Visual Studio 2017\CustomerConsoleapp\CustomerConsoleapp\bin\Debug\CustomerConsoleapp.exe
+C:\Users\BN105-30.UCO.002\Documents\Visual Studio 2017\CustomerConsoleapp\CustomerConsoleapp\bin\Debug\CustomerConsoleapp.pdb
+C:\Users\BN105-30.UCO.002\Documents\Visual Studio 2017\CustomerConsoleapp\CustomerConsoleapp\obj\Debug\CustomerConsoleapp.csprojAssemblyReference.cache
+C:\Users\BN105-30.UCO.002\Documents\Visual Studio 2017\CustomerConsoleapp\CustomerConsoleapp\obj\Debug\CustomerConsoleapp.csproj.CoreCompileInputs.cache
+C:\Users\BN105-30.UCO.002\Documents\Visual Studio 2017\CustomerConsoleapp\CustomerConsoleapp\obj\Debug\CustomerConsoleapp.exe
+C:\Users\BN105-30.UCO.002\Documents\Visual Studio 2017\CustomerConsoleapp\CustomerConsoleapp\obj\Debug\CustomerConsoleapp.pdb
+C:\Users\BN109-13\Downloads\CustomerConsoleapp\CustomerConsoleapp\bin\Debug\CustomerConsoleapp.exe.config
+C:\Users\BN109-13\Downloads\CustomerConsoleapp\CustomerConsoleapp\bin\Debug\CustomerConsoleapp.exe
+C:\Users\BN109-13\Downloads\CustomerConsoleapp\CustomerConsoleapp\bin\Debug\CustomerConsoleapp.pdb
+C:\Users\BN109-13\Downloads\CustomerConsoleapp\CustomerConsoleapp\obj\Debug\CustomerConsoleapp.csproj.CoreCompileInputs.cache
+C:\Users\BN109-13\Downloads\CustomerConsoleapp\CustomerConsoleapp\obj\Debug\CustomerConsoleapp.exe
+C:\Users\BN109-13\Downloads\CustomerConsoleapp\CustomerConsoleapp\obj\Debug\CustomerConsoleapp.pdb
